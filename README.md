@@ -55,11 +55,13 @@ Works only with base 10 (I don't know how to make mpq work with another base).
 
 > 1/47
 
-<img src="https://user-images.githubusercontent.com/13176303/152436815-a62e7ef0-7f2f-40b5-b4f2-38cb33c4b6b1.png" height="250">
+<img src="https://user-images.githubusercontent.com/13176303/152436815-a62e7ef0-7f2f-40b5-b4f2-38cb33c4b6b1.png" width="250">
 
 > 1/49
-<img src="https://user-images.githubusercontent.com/13176303/152436605-e2cc0e40-eaa6-4d4d-9323-97371f80aeed.png" height="250">
+<img src="https://user-images.githubusercontent.com/13176303/152436605-e2cc0e40-eaa6-4d4d-9323-97371f80aeed.png" width="250">
 
 > 1/51
-<img src="https://user-images.githubusercontent.com/13176303/152437252-42f22481-95c2-4139-906b-fd99991c6095.png" height="200">
+<img src="https://user-images.githubusercontent.com/13176303/152437252-42f22481-95c2-4139-906b-fd99991c6095.png" width="200">
 
+> 1/117
+<img src="https://user-images.githubusercontent.com/13176303/152438272-19de8bd6-524d-4b34-9546-5097d44a1f1d.png" width="150">
