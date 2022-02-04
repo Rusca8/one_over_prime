@@ -5,7 +5,7 @@ from gmpy2 import mpq
 # /////////////// CHOOSE STUFF HERE //////////////
 
 number = mpq(1, 117)  # mpq(numerator, denominator)
-draw_this_much_digits = 100  # how many lines (digits) to draw
+draw_this_much_digits = 300  # how many lines (digits) to draw
 unit = 20  # how long are the lines
 
 base = 10  # for now, only base10 works
@@ -13,7 +13,7 @@ base = 10  # for now, only base10 works
 # /////////////// DA PROGRAM /////////////////////
 
 # numbers
-gmpy2.get_context().precision = 2000
+gmpy2.get_context().precision = 20000
 b = gmpy2.mpfr(number)
 
 # turtle
