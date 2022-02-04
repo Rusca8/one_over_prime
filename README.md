@@ -66,7 +66,7 @@ Works only with base 10 (I don't know how to make mpq work with another base).
 > 1/53
 <img src="https://user-images.githubusercontent.com/13176303/152572908-cc99ef9a-f62e-4970-86de-df6110d84474.png" width="200">
 
-> 1/59 (did I found COVID? I think yes)
+> 1/59 (did I find COVID? I think I did)
 <img src="https://user-images.githubusercontent.com/13176303/152577362-2475382f-0b42-4021-95a0-a49ba5c5cb87.png" width="200">
 
 > 1/103
