@@ -25,7 +25,7 @@ Works only with base 10 (I don't know how to make mpq work with another base).
 
 <img src="https://user-images.githubusercontent.com/13176303/152373204-d460505a-1813-4da6-84a4-dcd403f3f75c.png" width="200">
 
-> 1/21
+> 1/21 (not prime)
 
 <img src="https://user-images.githubusercontent.com/13176303/152374092-6a29fce7-8187-457f-bc2a-03aa32aa63c2.png" width="150">
 
@@ -57,11 +57,25 @@ Works only with base 10 (I don't know how to make mpq work with another base).
 
 <img src="https://user-images.githubusercontent.com/13176303/152436815-a62e7ef0-7f2f-40b5-b4f2-38cb33c4b6b1.png" width="250">
 
-> 1/49
+> 1/49 (not prime)
 <img src="https://user-images.githubusercontent.com/13176303/152436605-e2cc0e40-eaa6-4d4d-9323-97371f80aeed.png" width="250">
 
-> 1/51
+> 1/51 (not prime)
 <img src="https://user-images.githubusercontent.com/13176303/152437252-42f22481-95c2-4139-906b-fd99991c6095.png" width="200">
 
-> 1/117
+> 1/53
+<img src="https://user-images.githubusercontent.com/13176303/152572908-cc99ef9a-f62e-4970-86de-df6110d84474.png" width="200">
+
+> 1/59 (did I found COVID? I think yes)
+<img src="https://user-images.githubusercontent.com/13176303/152577362-2475382f-0b42-4021-95a0-a49ba5c5cb87.png" width="200">
+
+> 1/103
+<img src="https://user-images.githubusercontent.com/13176303/152571231-b4bc94e6-9b14-43a9-a995-352f6c3803ba.png" width="200">
+
+> 1/113
+<img src="https://user-images.githubusercontent.com/13176303/152572259-6fedecc6-4d10-4f14-a336-20e4100ada41.png" width="200">
+
+> 1/117 (not prime)
 <img src="https://user-images.githubusercontent.com/13176303/152438272-19de8bd6-524d-4b34-9546-5097d44a1f1d.png" width="150">
+
+
